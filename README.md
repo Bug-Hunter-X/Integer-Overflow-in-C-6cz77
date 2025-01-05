@@ -1,0 +1,1 @@
+This repository contains a simple C program that demonstrates integer overflow. The program initializes an integer variable to a value that causes overflow when incremented. The overflow may lead to unexpected behavior or crashes.
